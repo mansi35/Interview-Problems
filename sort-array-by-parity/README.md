@@ -1,4 +1,4 @@
-<h2>unknown-problem</h2><h3>Easy</h3><hr><div><p>Given an array <code>A</code> of non-negative integers, return an array consisting of all the even elements of <code>A</code>, followed by all the odd elements of <code>A</code>.</p>
+<h2>Sort Array By Parity</h2><h3>Easy</h3><hr><div><p>Given an array <code>A</code> of non-negative integers, return an array consisting of all the even elements of <code>A</code>, followed by all the odd elements of <code>A</code>.</p>
 
 <p>You may return any answer array that satisfies this condition.</p>
 
